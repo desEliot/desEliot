@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desEliot
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on telegram bot
 - 📫 How to reach me @JordanBel1ford
 
 <!---
